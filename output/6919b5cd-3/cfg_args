@@ -1,0 +1,1 @@
+Namespace(data_device='cuda', eval=False, images='images', model_path='./output/6919b5cd-3', resolution=-1, scene_name='fern', sh_degree=3, source_path='/home/raja/raja/winter-2024/CSE290D/gaussian-splatting/data/nerf_llff_data/fern_few_views', white_background=False)

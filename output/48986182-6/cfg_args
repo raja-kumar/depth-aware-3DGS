@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='/home/raja/courses/csci677/HW3/gaussian-splatting/data/10', model_path='./output/48986182-6', images='images', resolution=-1, white_background=False, data_device='cuda', eval=False, scene_name='')
