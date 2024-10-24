@@ -12,7 +12,7 @@ conda activate depth_aware_3dgs
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 pip install -r requirements.txt
 pip install submodules/diff-gaussian-rasterization
-pip install simple-knn
+pip install submodules/simple-knn
 ```
 
 ## Dataset
@@ -49,5 +49,5 @@ If you found our work useful for your research, Please cite our paper
 }
 ```
 
-## Attributes
+## Attributions
 The repo uses the code from [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) and [diff-gaussian-rasterization](https://github.com/ashawkey/diff-gaussian-rasterization). We would like to thank the authors for their amazing work.
