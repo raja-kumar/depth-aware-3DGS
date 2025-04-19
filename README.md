@@ -14,6 +14,7 @@ pip install -r requirements.txt
 pip install submodules/diff-gaussian-rasterization
 pip install submodules/simple-knn
 ```
+***Update***: The diff-gaussian-rasterization module is not linked correctly. You can install the diff-gaussian-rasterization from this repo https://github.com/ashawkey/diff-gaussian-rasterization.
 
 ## Dataset
 
