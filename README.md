@@ -42,11 +42,13 @@ python train.py -s ./data/fern --scene fern
 
 If you found our work useful for your research, Please cite our paper
 ```
-@article{kumar2024few,
-  title={Few-shot Novel View Synthesis using Depth Aware 3D Gaussian Splatting},
+@inproceedings{kumar2025few,
+  title={Few-shot novel view synthesis using depth aware 3d gaussian splatting},
   author={Kumar, Raja and Vats, Vanshika},
-  journal={arXiv preprint arXiv:2410.11080},
-  year={2024}
+  booktitle={European Conference on Computer Vision Workshop},
+  pages={1--13},
+  year={2025},
+  organization={Springer}
 }
 ```
 
